@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an incorrect comparison to undef and a corrected version.  The original script incorrectly uses 'eq' to check for undef, leading to unexpected results. The corrected script utilizes the defined() function, which provides a reliable method for detecting undef values.  See the included files for details.
